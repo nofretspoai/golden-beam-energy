@@ -721,7 +721,7 @@ header .main-navigation nav .navbar-nav .nav-item .nav-link.active span{
     margin-top: .4rem;
     position: absolute;
     right: 30px;
-    top: 73px;
+    top: 55px;
     display: inline-block;
 }
 .sidemenu_btn span {
@@ -2324,7 +2324,7 @@ header .main-navigation nav .navbar-nav .nav-item .nav-link.active span{
         display: none;
     }
     .sidemenu_btn {
-        top: 65px;
+        top: 55px;
     }
     .side-menu .inner-wrapper {
         padding: 3.5rem 3rem;
